@@ -1,3 +1,4 @@
 soal pertama
 
-jawaban : ilmu politik adalah suatu gambaran ilmu yang mempelajari politik
+ilmu politik adalah ilmu yang mempelajari soal nilai nilai pancasila
+
