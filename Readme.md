@@ -1,4 +1,5 @@
 soal pertama
 
-ilmu politik adalah ilmu yang mempelajari soal dasar dasar negara
+ilmu politik adalah ilmu yang mempelajari soal nilai nilai pancasila
+
 
