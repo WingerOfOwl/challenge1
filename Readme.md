@@ -1,3 +1,3 @@
 soal pertama
 
-apa itu ilmu politik
+ilmu politik adalah ilmu yang mempelajari soal dasar dasar negara
