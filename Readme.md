@@ -1,4 +1,4 @@
 soal pertama
 
-jawaban : ilmu politik adalah ilmu yang mempelajari soal politik pemerintahan di indonesia
+ilmu politik adalah ilmu yang mempelajari soal dasar dasar negara
 
