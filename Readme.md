@@ -1,3 +1,3 @@
 soal pertama
 
-apa itu ilmu politik
+jawaban : ilmu politik adalah ilmu yang membahas soal politik
